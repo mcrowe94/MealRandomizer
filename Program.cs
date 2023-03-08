@@ -68,7 +68,7 @@ namespace MealRandomizer
 
                 if (userInput == "n")
                 {
-                    Console.WriteLine("Now exiting");
+                    Console.WriteLine("Now exiting! Thank you.");
                     Environment.Exit(0);
                 }
 
