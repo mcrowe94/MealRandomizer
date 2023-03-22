@@ -6,6 +6,7 @@ namespace MealRandomizer
     {
         static void Main(string[] args)
         {
+            //adding a comment to check to see how cloning/pushing to GitHub will do on my Windows with a new SSH Key
             string userInput = "y";
 
             Console.WriteLine("Welcome to your very own Meal Randomizer, where *I* do all the meal planning for you!");
